@@ -3,13 +3,15 @@
   <channel>
     <title>Attachable</title>
     <item>
-      <title>Attachable 1.0.0</title>
-      <pubDate>Sun, 01 Nov 2026 17:44:55 +0000</pubDate>
-      <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <title>Attachable 1.0.1</title>
+      <pubDate>Sun, 01 Nov 2026 18:08:18 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[### Attachable 1.0.1
 
-      <enclosure url="https://coleman-sweeney.github.io/updates/attachable/Attachable-1.0.0.dmg" type="application/octet-stream" sparkle:edSignature="96Sx5gcT2rimZtyxHbCHLLrdpXq32D2TaS4O+yEShFTKofHO9pObXTg7sfbSI8I565dPHx0D7UIUaIMbPL2vDw==" length="6914727"/>
+- Small improvements and fixes.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/attachable/Attachable-1.0.1.dmg" type="application/octet-stream" sparkle:edSignature="uNp+oZVQmEaI4buNESVxEYST/HXRLVZDZFaSGo4JjJrR7ASw91Bde5C9Ir78E0ImlZcS2QmbTIQzrw7mQNWVCQ==" length="6914923"/>
     </item>
   </channel>
 </rss>
