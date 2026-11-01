@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Attachable</title>
+    <item>
+      <title>Attachable 1.0.0</title>
+      <pubDate>Sun, 01 Nov 2026 17:44:55 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+
+      <enclosure url="https://coleman-sweeney.github.io/updates/attachable/Attachable-1.0.0.dmg" type="application/octet-stream" sparkle:edSignature="96Sx5gcT2rimZtyxHbCHLLrdpXq32D2TaS4O+yEShFTKofHO9pObXTg7sfbSI8I565dPHx0D7UIUaIMbPL2vDw==" length="6914727"/>
+    </item>
+  </channel>
+</rss>
