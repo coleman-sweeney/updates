@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Easy Squeezy</title>
+    <item>
+      <title>Easy Squeezy 1.0.0</title>
+      <pubDate>Sun, 01 Nov 2026 18:38:36 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+
+      <enclosure url="https://coleman-sweeney.github.io/updates/easysqueezy/EasySqueezy-1.0.0.dmg" type="application/octet-stream" sparkle:edSignature="TL3o/D5yPq9M8YFFMqM0aX6z2O6tZj/7laUA1PZ648KS/yJe9Srp7Q7vaafQ0viOv5XMfCmS+UILcqjnYjQ4Cw==" length="3271135"/>
+    </item>
+  </channel>
+</rss>
