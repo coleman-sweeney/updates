@@ -3,15 +3,17 @@
   <channel>
     <title>Attachable</title>
     <item>
-      <title>Attachable 1.0.1</title>
-      <pubDate>Sun, 01 Nov 2026 18:08:18 +0000</pubDate>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <title>Attachable 1.0.2</title>
+      <pubDate>Sun, 01 Nov 2026 18:28:39 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[### Attachable 1.0.1
+      <description sparkle:format="markdown"><![CDATA[### Attachable 1.0.2
 
-- Small improvements and fixes.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/attachable/Attachable-1.0.1.dmg" type="application/octet-stream" sparkle:edSignature="uNp+oZVQmEaI4buNESVxEYST/HXRLVZDZFaSGo4JjJrR7ASw91Bde5C9Ir78E0ImlZcS2QmbTIQzrw7mQNWVCQ==" length="6914923"/>
+- Turn on Attachable's right-click actions in one click: you're offered it the first time, and anytime from Settings.
+- Location is now removed from every photo and video when that setting is on, even ones that were already small.
+- Steadier with very long PDFs, scans inside ZIPs and network drives.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/attachable/Attachable-1.0.2.dmg" type="application/octet-stream" sparkle:edSignature="q56Pnsc+yjiEsyc92195UbQVIZGKxkX+87OoLZ0H9uIIuC0nDaiV8iFDg9rG7/wSIZ9+VQNegASZsu24OzgbBA==" length="6964053"/>
     </item>
   </channel>
 </rss>
