@@ -3,17 +3,15 @@
   <channel>
     <title>Attachable</title>
     <item>
-      <title>Attachable 1.0.2</title>
-      <pubDate>Sun, 01 Nov 2026 18:28:39 +0000</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <title>Attachable 1.0.3</title>
+      <pubDate>Sun, 01 Nov 2026 19:07:29 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[### Attachable 1.0.2
+      <description sparkle:format="markdown"><![CDATA[### Attachable 1.0.3
 
-- Turn on Attachable's right-click actions in one click: you're offered it the first time, and anytime from Settings.
-- Location is now removed from every photo and video when that setting is on, even ones that were already small.
-- Steadier with very long PDFs, scans inside ZIPs and network drives.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/attachable/Attachable-1.0.2.dmg" type="application/octet-stream" sparkle:edSignature="q56Pnsc+yjiEsyc92195UbQVIZGKxkX+87OoLZ0H9uIIuC0nDaiV8iFDg9rG7/wSIZ9+VQNegASZsu24OzgbBA==" length="6964053"/>
+- A step-by-step guide to turning on Attachable's right-click actions, with pictures of exactly what to click. It opens once by itself, and anytime from Settings → Right-click actions → Set Up….]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/attachable/Attachable-1.0.3.dmg" type="application/octet-stream" sparkle:edSignature="SVQ52kjFytv6ShLevaBkQj2AVYjNNp/qn52kMjEUduEh25vFSfjyBkF+IaTijmxGSaKAwafuzKyjhg+HegAlAQ==" length="6983404"/>
     </item>
   </channel>
 </rss>
