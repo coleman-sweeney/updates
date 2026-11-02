@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Easy Squeezy</title>
+    <title>EasySqueezy</title>
     <item>
-      <title>Easy Squeezy 1.0.0</title>
-      <pubDate>Sun, 01 Nov 2026 18:38:36 +0000</pubDate>
-      <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <title>EasySqueezy 1.0.1</title>
+      <pubDate>Mon, 02 Nov 2026 19:33:14 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[### EasySqueezy 1.0.1
 
-      <enclosure url="https://coleman-sweeney.github.io/updates/easysqueezy/EasySqueezy-1.0.0.dmg" type="application/octet-stream" sparkle:edSignature="TL3o/D5yPq9M8YFFMqM0aX6z2O6tZj/7laUA1PZ648KS/yJe9Srp7Q7vaafQ0viOv5XMfCmS+UILcqjnYjQ4Cw==" length="3271135"/>
+- New look for the name and wordmark, matching the rest of the family.
+- Small improvements and fixes.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/easysqueezy/EasySqueezy-1.0.1.dmg" type="application/octet-stream" sparkle:edSignature="VvFviOvxPdbQwV+Q/smuSBv17Xgf8dWvRyNVz9+bik7niKnHjvim/GW68IpjbTeD7DQEdHQRCbX7owDIigXoCQ==" length="3335193"/>
     </item>
   </channel>
 </rss>
