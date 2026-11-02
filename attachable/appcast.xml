@@ -3,15 +3,17 @@
   <channel>
     <title>Attachable</title>
     <item>
-      <title>Attachable 1.0.3</title>
-      <pubDate>Sun, 01 Nov 2026 19:07:29 +0000</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <title>Attachable 1.0.4</title>
+      <pubDate>Mon, 02 Nov 2026 19:30:36 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[### Attachable 1.0.3
+      <description sparkle:format="markdown"><![CDATA[### Attachable 1.0.4
 
-- A step-by-step guide to turning on Attachable's right-click actions, with pictures of exactly what to click. It opens once by itself, and anytime from Settings → Right-click actions → Set Up….]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/attachable/Attachable-1.0.3.dmg" type="application/octet-stream" sparkle:edSignature="SVQ52kjFytv6ShLevaBkQj2AVYjNNp/qn52kMjEUduEh25vFSfjyBkF+IaTijmxGSaKAwafuzKyjhg+HegAlAQ==" length="6983404"/>
+- A refreshed wordmark, matching the rest of the Creative Production Tools family.
+- Help › Send Feedback… opens an email to us, with your app and macOS versions filled in.
+- Links now go to creativeproduction.tools.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/attachable/Attachable-1.0.4.dmg" type="application/octet-stream" sparkle:edSignature="t87v407s87SEMnmH8sMHSoC/rtvdoEHdYgBxMoW914q/eUL9WyS102JcZv0hiFqvRXkTy8it2IcAFCKxzSQjAw==" length="7021193"/>
     </item>
   </channel>
 </rss>
