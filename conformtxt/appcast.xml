@@ -3,14 +3,16 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.4.1</title>
-      <pubDate>Wed, 04 Nov 2026 06:42:47 +0000</pubDate>
-      <sparkle:version>6</sparkle:version>
-      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <title>ConformTXT 0.5.0</title>
+      <pubDate>Wed, 04 Nov 2026 16:25:46 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Pasting into Mimestream and Mail now matches your email's text size.
-- No more extra blank line after a pasted list.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.4.1.dmg" type="application/octet-stream" sparkle:edSignature="hDm40Muh0WjiiDW2i798IXWLaPWvSHocka0i9cjOJhPhiFRGlWjfqXfccv7vNnui+WDm7SQVAPA8Q2gbGsR+Aw==" length="1565191"/>
+      <description sparkle:format="markdown"><![CDATA[- A new menu bar panel: one On/Off switch, your last few pastes, and quick links to Settings and Report.
+- A new menu bar icon that matches the app icon.
+- Simpler Settings: On, Keys, Skip these apps, then Markdown.
+- Cleaner charcoal switches and links.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.5.0.dmg" type="application/octet-stream" sparkle:edSignature="DqutLDLVT+x8+C4deKUpZJnvbvDN/v/vy9HzNj6UU2azs5S9jpMBzuHlBw3N7+Nq1muFMGflT8X4a+ipH6aeDg==" length="1622488"/>
     </item>
   </channel>
 </rss>
