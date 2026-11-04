@@ -3,25 +3,18 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.0</title>
-      <pubDate>Wed, 04 Nov 2026 20:32:05 +0000</pubDate>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.1</title>
+      <pubDate>Wed, 04 Nov 2026 22:50:11 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Everything in one panel: click the menu bar icon for On/Off, your paste history and all settings. No more separate windows.
-- Right-click the icon for About, updates, the website, feedback and Quit.
-- Choose your own paste shortcut (Shortcut → Custom…), and exclude apps where pastes should never change. Markdown headings now always come in as bold text.
-- Email apps: if ConformTXT can't read your text size (say, right after the app reopens), it uses the last size it saw there instead of the app's large default.
-- A new app icon and menu bar icon: an outlined ⌘V key.
-- A crisper look: near-black wordmark, switches and links, a snugger .txt box, and the icon's lime now matches the app's.
-- Every paste matches, including pastes within the same app or document.
-- Code stays code: code blocks keep their lines and indents, in a monospace font.
-- Safer font checks: only in real text fields, never in spreadsheets or presentations, and nothing is ever deleted unless ConformTXT is sure it's its own.
-- Slow apps: your clipboard goes back only after the app has taken the paste.
-- Pastes made by TextExpander, Raycast, Alfred or Keyboard Maestro, and pastes into Spotlight or the emoji picker, are left alone.
-- Emoji pictures from Gmail, Slack and X come through as emoji, and a copied image pastes as usual.
-- Cleaner tables and Gmail replies, and turning Accessibility access off and on works without restarting.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.0.dmg" type="application/octet-stream" sparkle:edSignature="1NXufjuteSSjivKWSSx5/yWwh7QYY8LkttbMtLnJC8QFOeaLO5b9vNGm7O/h/pTGgCIJFli6U/HsxRQbjm0jAg==" length="1759559"/>
+      <description sparkle:format="markdown"><![CDATA[- Changed your mind? Right after a matched paste, ⌃⌘V swaps it for the original, untouched.
+- The menu bar icon blinks once when a paste is matched.
+- AI citations are left out: ChatGPT's source chips ("nytimes.com +1"), "【4†source】" marks and footnote numbers.
+- Links lose their tracking (utm_… and the like), and Google, Outlook, Facebook, LinkedIn and Slack redirect links paste as the real address.
+- Tables: headers on the left, text at the top of each cell, and space between columns.
+- New in Settings: Keep headings big, to keep headings as real headings, and Clean up AI punctuation, for plain dashes, quotes and dots.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.1.dmg" type="application/octet-stream" sparkle:edSignature="iknUW6TK9RIvRJFAGdyrPKtxGWcD2iWnr7kHuhUeS6v5TlrRo7GxY7leQ2mb2OLigcxoinhxyJMky3OX9lHpDA==" length="1881807"/>
     </item>
   </channel>
 </rss>
