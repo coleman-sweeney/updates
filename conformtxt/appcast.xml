@@ -3,16 +3,25 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.5.0</title>
-      <pubDate>Wed, 04 Nov 2026 16:25:46 +0000</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.0</title>
+      <pubDate>Wed, 04 Nov 2026 20:32:05 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- A new menu bar panel: one On/Off switch, your last few pastes, and quick links to Settings and Report.
-- A new menu bar icon that matches the app icon.
-- Simpler Settings: On, Keys, Skip these apps, then Markdown.
-- Cleaner charcoal switches and links.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.5.0.dmg" type="application/octet-stream" sparkle:edSignature="DqutLDLVT+x8+C4deKUpZJnvbvDN/v/vy9HzNj6UU2azs5S9jpMBzuHlBw3N7+Nq1muFMGflT8X4a+ipH6aeDg==" length="1622488"/>
+      <description sparkle:format="markdown"><![CDATA[- Everything in one panel: click the menu bar icon for On/Off, your paste history and all settings. No more separate windows.
+- Right-click the icon for About, updates, the website, feedback and Quit.
+- Choose your own paste shortcut (Shortcut → Custom…), and exclude apps where pastes should never change. Markdown headings now always come in as bold text.
+- Email apps: if ConformTXT can't read your text size (say, right after the app reopens), it uses the last size it saw there instead of the app's large default.
+- A new app icon and menu bar icon: an outlined ⌘V key.
+- A crisper look: near-black wordmark, switches and links, a snugger .txt box, and the icon's lime now matches the app's.
+- Every paste matches, including pastes within the same app or document.
+- Code stays code: code blocks keep their lines and indents, in a monospace font.
+- Safer font checks: only in real text fields, never in spreadsheets or presentations, and nothing is ever deleted unless ConformTXT is sure it's its own.
+- Slow apps: your clipboard goes back only after the app has taken the paste.
+- Pastes made by TextExpander, Raycast, Alfred or Keyboard Maestro, and pastes into Spotlight or the emoji picker, are left alone.
+- Emoji pictures from Gmail, Slack and X come through as emoji, and a copied image pastes as usual.
+- Cleaner tables and Gmail replies, and turning Accessibility access off and on works without restarting.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.0.dmg" type="application/octet-stream" sparkle:edSignature="1NXufjuteSSjivKWSSx5/yWwh7QYY8LkttbMtLnJC8QFOeaLO5b9vNGm7O/h/pTGgCIJFli6U/HsxRQbjm0jAg==" length="1759559"/>
     </item>
   </channel>
 </rss>
