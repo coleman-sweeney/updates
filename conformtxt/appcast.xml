@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>ConformTXT</title>
+    <item>
+      <title>ConformTXT 0.4.1</title>
+      <pubDate>Wed, 04 Nov 2026 06:42:47 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[- Pasting into Mimestream and Mail now matches your email's text size.
+- No more extra blank line after a pasted list.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.4.1.dmg" type="application/octet-stream" sparkle:edSignature="hDm40Muh0WjiiDW2i798IXWLaPWvSHocka0i9cjOJhPhiFRGlWjfqXfccv7vNnui+WDm7SQVAPA8Q2gbGsR+Aw==" length="1565191"/>
+    </item>
+  </channel>
+</rss>
