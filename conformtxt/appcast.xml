@@ -8,9 +8,7 @@
       <sparkle:version>11</sparkle:version>
       <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[# ConformTXT 0.6.3
-
-- Faster pastes in Mimestream and Mail: ConformTXT no longer waits on an app that doesn't say which font it uses, and checks the font once per email instead of on every paste.]]></description>
+      <description sparkle:format="markdown"><![CDATA[- Faster pastes in Mimestream and Mail: ConformTXT no longer waits on an app that doesn't say which font it uses, and checks the font once per email instead of on every paste.]]></description>
       <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.3.dmg" type="application/octet-stream" sparkle:edSignature="PikGm9JEz/R8lENu4KhJtVK8i1hwC2J8dzHZSadjtgqUo85Ynhyl0YpG+9gfKcIwMtiJ63KikFnAFKjl4FGrCA==" length="1958028"/>
     </item>
   </channel>
