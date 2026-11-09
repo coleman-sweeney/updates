@@ -3,13 +3,15 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.5</title>
-      <pubDate>Mon, 09 Nov 2026 19:56:02 +0000</pubDate>
-      <sparkle:version>13</sparkle:version>
-      <sparkle:shortVersionString>0.6.5</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.6</title>
+      <pubDate>Mon, 09 Nov 2026 20:57:29 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.6.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Lists pasted into email (Mimestream, Mail, Gmail) no longer bring their own gaps above and below. The space around a list is now a normal empty line, like between paragraphs, so you can delete it or add to it.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.5.dmg" type="application/octet-stream" sparkle:edSignature="HUhcPqmXzQu52a7kMkMr6OmVsXOGa2N7A2XWBtNnlYcpEyxp8PTkGv9/HLJVDUU1mQYqil/+XUI0gKnfsgeqCg==" length="1958236"/>
+      <description sparkle:format="markdown"><![CDATA[- Fixed: in Mimestream and Mail, text pasted into the middle of a line could come in larger and in a serif font. It now always matches the text around it.
+- Plain sentences paste as plain text where ConformTXT can't read the font, so the app types them in its own font.
+- Safari: pastes into web email (Gmail, Outlook) now match the font too.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.6.dmg" type="application/octet-stream" sparkle:edSignature="4jEYPgPj0bqRpLMkrlJRjQ655aj3gkAeQ5Qk7jPiq4gtRqQHQlxOWwdMFIIo77yPoKdbN1CDI1rGDCTbn6IdBg==" length="1963329"/>
     </item>
   </channel>
 </rss>
