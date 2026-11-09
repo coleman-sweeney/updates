@@ -3,13 +3,13 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.4</title>
-      <pubDate>Mon, 09 Nov 2026 18:06:10 +0000</pubDate>
-      <sparkle:version>12</sparkle:version>
-      <sparkle:shortVersionString>0.6.4</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.5</title>
+      <pubDate>Mon, 09 Nov 2026 19:56:02 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.6.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Fixed: in Mimestream, pasted text could come in a little too big, or in a serif font. ConformTXT now reads Mimestream's font the reliable way, once per email.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.4.dmg" type="application/octet-stream" sparkle:edSignature="tMXhqiTtuCJf0Bgt388U2PHd0hv1OvJyPbJw6Ab9zXjzKHACs+3MqUm5o4bkAvaNfbk18aItcxLC45SBAG4TBA==" length="1958663"/>
+      <description sparkle:format="markdown"><![CDATA[- Lists pasted into email (Mimestream, Mail, Gmail) no longer bring their own gaps above and below. The space around a list is now a normal empty line, like between paragraphs, so you can delete it or add to it.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.5.dmg" type="application/octet-stream" sparkle:edSignature="HUhcPqmXzQu52a7kMkMr6OmVsXOGa2N7A2XWBtNnlYcpEyxp8PTkGv9/HLJVDUU1mQYqil/+XUI0gKnfsgeqCg==" length="1958236"/>
     </item>
   </channel>
 </rss>
