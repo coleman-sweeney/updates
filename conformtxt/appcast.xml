@@ -3,13 +3,13 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.3</title>
-      <pubDate>Mon, 09 Nov 2026 02:07:45 +0000</pubDate>
-      <sparkle:version>11</sparkle:version>
-      <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.4</title>
+      <pubDate>Mon, 09 Nov 2026 18:06:10 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.6.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Faster pastes in Mimestream and Mail: ConformTXT no longer waits on an app that doesn't say which font it uses, and checks the font once per email instead of on every paste.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.3.dmg" type="application/octet-stream" sparkle:edSignature="PikGm9JEz/R8lENu4KhJtVK8i1hwC2J8dzHZSadjtgqUo85Ynhyl0YpG+9gfKcIwMtiJ63KikFnAFKjl4FGrCA==" length="1958028"/>
+      <description sparkle:format="markdown"><![CDATA[- Fixed: in Mimestream, pasted text could come in a little too big, or in a serif font. ConformTXT now reads Mimestream's font the reliable way, once per email.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.4.dmg" type="application/octet-stream" sparkle:edSignature="tMXhqiTtuCJf0Bgt388U2PHd0hv1OvJyPbJw6Ab9zXjzKHACs+3MqUm5o4bkAvaNfbk18aItcxLC45SBAG4TBA==" length="1958663"/>
     </item>
   </channel>
 </rss>
