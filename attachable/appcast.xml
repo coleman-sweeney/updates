@@ -3,17 +3,20 @@
   <channel>
     <title>Attachable</title>
     <item>
-      <title>Attachable 1.0.4</title>
-      <pubDate>Mon, 02 Nov 2026 19:30:36 +0000</pubDate>
-      <sparkle:version>5</sparkle:version>
-      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <title>Attachable 1.0.5</title>
+      <pubDate>Mon, 09 Nov 2026 02:13:10 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[### Attachable 1.0.4
+      <description sparkle:format="markdown"><![CDATA[### Attachable 1.0.5
 
-- A refreshed wordmark, matching the rest of the Creative Production Tools family.
-- Help › Send Feedback… opens an email to us, with your app and macOS versions filled in.
-- Links now go to creativeproduction.tools.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/attachable/Attachable-1.0.4.dmg" type="application/octet-stream" sparkle:edSignature="t87v407s87SEMnmH8sMHSoC/rtvdoEHdYgBxMoW914q/eUL9WyS102JcZv0hiFqvRXkTy8it2IcAFCKxzSQjAw==" length="7021193"/>
+- Compress several files at once without zipping them: each gets its own smaller copy, and together they fit one email. Right-click → Attachable: Compress, or the arrow next to Compress to ZIP.
+- Clearer right-click menu: "Attachable: Compress", "Attachable: Compress to ZIP" and "Attachable: Combine to PDF", all with the paperclip.
+- Dropping more files onto the list now works anywhere in the box.
+- A ZIP or PDF made from files in different folders now saves where most of them came from, and says where. A dropped folder's ZIP saves next to the folder.
+- Dragging to reorder the list looks cleaner.
+- Small fixes.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/attachable/Attachable-1.0.5.dmg" type="application/octet-stream" sparkle:edSignature="wRviXiTr9Zbg2SUB7YGIBrTyRYZvj8JN2L/813lM9c4NFzUNbkQNkOxeEKMb3ZH530yWQtXqL7bArqlInsfcCg==" length="7369370"/>
     </item>
   </channel>
 </rss>
