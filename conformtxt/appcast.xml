@@ -3,19 +3,15 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.2</title>
-      <pubDate>Thu, 05 Nov 2026 06:47:57 +0000</pubDate>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.3</title>
+      <pubDate>Mon, 09 Nov 2026 02:07:45 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- The menu bar icon now flashes lime the moment a paste is matched, so you can see it worked.
-- ⌘Q closes the panel or About window, and ConformTXT keeps running in the menu bar. To quit, right-click the icon and choose Quit, or press ⌥⌘Q.
-- New: Keep images (on). Pictures in what you copy now come along with the text, sized to fit.
-- New: Remove emoji (off). Takes emoji out of what you paste and closes up the space they leave.
-- Keep headings big now matches how big headings were where you copied them, and uses a gentler size for AI chats, so headings no longer come in oversized.
-- Pasting into a one-line box (a link box, To or Subject, a search bar, a form field) is now a normal paste, instantly: those boxes can't hold formatting.
-- Fixed: in Mimestream and Mail, pasted text could come in a size too big and, in replies, in a serif font. ConformTXT now sends your font along with the right size.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.2.dmg" type="application/octet-stream" sparkle:edSignature="QNMiuEPW9OFobTEfNBSHi6hIPntbTIlUBrbwECKQqa8Zwayrf+X2g6n5vtDrakWH+Su5Cc6fsuZsvirIZtP0Bw==" length="1952247"/>
+      <description sparkle:format="markdown"><![CDATA[# ConformTXT 0.6.3
+
+- Faster pastes in Mimestream and Mail: ConformTXT no longer waits on an app that doesn't say which font it uses, and checks the font once per email instead of on every paste.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.3.dmg" type="application/octet-stream" sparkle:edSignature="PikGm9JEz/R8lENu4KhJtVK8i1hwC2J8dzHZSadjtgqUo85Ynhyl0YpG+9gfKcIwMtiJ63KikFnAFKjl4FGrCA==" length="1958028"/>
     </item>
   </channel>
 </rss>
