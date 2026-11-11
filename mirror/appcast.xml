@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Mirror</title>
+    <item>
+      <title>Mirror 1.3.0</title>
+      <pubDate>Wed, 11 Nov 2026 18:02:50 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[- Pick your camera from the Camera menu, including your iPhone
+- Enhance now judges color and brightness from your face, and is gentler
+- Meeting view shows exactly what Zoom, Meet and Teams send
+- Soft light, Pause (Space), and a darker, clearer control panel
+- Settings: button descriptions, keep on top, and an optional shortcut to open Mirror
+- The camera turns off while Mirror is hidden or minimized]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/mirror/Mirror-1.3.0.dmg" type="application/octet-stream" sparkle:edSignature="pCt/rh+mk3mW9HX4pqaJ4Qa0E9g8wmy7UGkS7HSNVM30nGZg2IpE8yrG8AyKZEoAoh/EjgLmqYUBasOh0FJcAg==" length="3223795"/>
+    </item>
+  </channel>
+</rss>
