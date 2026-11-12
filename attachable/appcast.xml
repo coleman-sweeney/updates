@@ -3,20 +3,17 @@
   <channel>
     <title>Attachable</title>
     <item>
-      <title>Attachable 1.0.5</title>
-      <pubDate>Mon, 09 Nov 2026 02:13:10 +0000</pubDate>
-      <sparkle:version>6</sparkle:version>
-      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <title>Attachable 1.0.6</title>
+      <pubDate>Thu, 12 Nov 2026 03:06:19 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[### Attachable 1.0.5
+      <description sparkle:format="markdown"><![CDATA[### Attachable 1.0.6
 
-- Compress several files at once without zipping them: each gets its own smaller copy, and together they fit one email. Right-click → Attachable: Compress, or the arrow next to Compress to ZIP.
-- Clearer right-click menu: "Attachable: Compress", "Attachable: Compress to ZIP" and "Attachable: Combine to PDF", all with the paperclip.
-- Dropping more files onto the list now works anywhere in the box.
-- A ZIP or PDF made from files in different folders now saves where most of them came from, and says where. A dropped folder's ZIP saves next to the folder.
-- Dragging to reorder the list looks cleaner.
+- The right-click actions now show they're working: a progress bar under the file or folder in Finder, and a small box at the top right of the screen ("Compressing 7 of 100…").
+- A clearer message when something can't fit one email: how small it got, and what to do instead.
 - Small fixes.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/attachable/Attachable-1.0.5.dmg" type="application/octet-stream" sparkle:edSignature="wRviXiTr9Zbg2SUB7YGIBrTyRYZvj8JN2L/813lM9c4NFzUNbkQNkOxeEKMb3ZH530yWQtXqL7bArqlInsfcCg==" length="7369370"/>
+      <enclosure url="https://coleman-sweeney.github.io/updates/attachable/Attachable-1.0.6.dmg" type="application/octet-stream" sparkle:edSignature="tuZueZrYmq4GRPtlSsjTuEMeOT8j1YnehhurkmY7ivC8ePwlWLu9zuJKF/eGQ3GYhHvcpw7jaGc7PLFCymwOAQ==" length="7380639"/>
     </item>
   </channel>
 </rss>
