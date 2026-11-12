@@ -3,14 +3,18 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.7</title>
-      <pubDate>Wed, 11 Nov 2026 23:15:48 +0000</pubDate>
-      <sparkle:version>15</sparkle:version>
-      <sparkle:shortVersionString>0.6.7</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.8</title>
+      <pubDate>Thu, 12 Nov 2026 22:33:41 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.6.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Fixed: in ONLYOFFICE and LibreOffice spreadsheets, a paste could land in the wrong cell. Spreadsheets (there, and in Excel and Numbers) now get their own normal paste, instantly.
-- For testing: Log to Desktop (right-click the menu bar icon). While it's on, every paste's full History line is written, as it happens, to "ConformTXT Log.txt" on your Desktop. Off by default; never includes what you copied.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.7.dmg" type="application/octet-stream" sparkle:edSignature="Rv8o2C80pFh3V+4B/XRv4MhFJN2YCvwWwJ8BJg69IhFt0W5b3glBjUCJduY/5eIiDNEKKRoGrAO2g352h2gmBg==" length="1973115"/>
+      <description sparkle:format="markdown"><![CDATA[- Safer pasting: keys you press while a paste is still finishing now wait a moment and then go in, in order, so they can't land on top of the paste.
+- A quick second ⌘V is never lost: into the same app it pastes again; into another app it's a normal paste there.
+- No more double pastes when an app is slow to answer.
+- Very large copies get a normal paste, and a paste that gets stuck stops by itself instead of blocking ⌘V.
+- Show Log (right-click the menu bar icon) replaces Log to Desktop. The log keeps the last 30 days, in your local time, and never includes what you copied.
+- "Remove emojis" in Settings; the History box no longer changes size when you click Show all.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.8.dmg" type="application/octet-stream" sparkle:edSignature="FQRBI439I2zU73WdxF8N8ve1gsHbJH1fb4mEjirV+GoPIMip1iJI8W1nqhGa8zD/U5M/TWlY1IdYISizcgCIBg==" length="2008996"/>
     </item>
   </channel>
 </rss>
