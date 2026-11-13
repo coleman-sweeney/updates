@@ -3,15 +3,17 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.11</title>
-      <pubDate>Fri, 13 Nov 2026 19:29:13 +0000</pubDate>
-      <sparkle:version>19</sparkle:version>
-      <sparkle:shortVersionString>0.6.11</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.12</title>
+      <pubDate>Fri, 13 Nov 2026 23:26:11 +0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.6.12</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Copying lines from an email (Mimestream, Gmail, Apple Mail) or Notes keeps them as they were: a name stays right above its link, and only the blank lines you had come along. No more gaps added between lines.
-- Colored text keeps its color: red notes, blue text and highlighter colors now come along when you paste. Black, gray and white from the source's theme (or dark mode) still take the destination's color, and links take the destination's link color.
-- Email editors: empty lines around a pasted list are the same size as the text, and the font menu shows the editor's own font (for example "Sans Serif") instead of "Other Font".]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.11.dmg" type="application/octet-stream" sparkle:edSignature="uvd5Xv0/al5YViIz1KFd5yGo31weAOnvOx21QT/f4plmnL8C7+d9Nqg/A26RjUOvjVrOpOymxfkAsWkgQMtNAA==" length="2035292"/>
+      <description sparkle:format="markdown"><![CDATA[- Pasting a chat message (Google Chat and others) into TextEdit, Word or Pages now takes the document's font, not Times, and keeps the message's own lines with no extra spacing.
+- Copying lines from an email (Mimestream, Gmail, Apple Mail) or Notes keeps them as they were: a name stays right above its link, and only the blank lines you had come along.
+- Colored text keeps its color: red notes, blue text and highlighter colors now come along. Black, gray and white from the source's theme still take the destination's color; links take the destination's link color.
+- Email editors: empty lines around a pasted list are the same size as the text, and the font menu shows the editor's own font (for example "Sans Serif").
+- For testing: Settings › Make Report (also in the right-click menu) puts one file on the Desktop with everything needed to look into a paste that went wrong. The first time, macOS asks whether ConformTXT may use the Desktop.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.12.dmg" type="application/octet-stream" sparkle:edSignature="quiWzpATAJw0waMEWOU4gORgt3AbOR6FTQ/gczOV9PLclrPJZFGCqXbw6bjPtFI9lKNXm6Ml3cjPc41jp3VlAg==" length="2059374"/>
     </item>
   </channel>
 </rss>
