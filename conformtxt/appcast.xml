@@ -3,13 +3,14 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.9</title>
-      <pubDate>Fri, 13 Nov 2026 17:55:01 +0000</pubDate>
-      <sparkle:version>17</sparkle:version>
-      <sparkle:shortVersionString>0.6.9</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.10</title>
+      <pubDate>Fri, 13 Nov 2026 18:40:43 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.6.10</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Colored text keeps its color: red notes, blue text and highlighter colors now come along when you paste. Black, gray and white from the source's theme (or dark mode) still take the destination's color, and links take the destination's link color.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.9.dmg" type="application/octet-stream" sparkle:edSignature="ZZwPSKGhPYWT+UnWiZWpvbngTEXzgAcU/iw18jj+L8h8bJJysviJqn5jg5E3Js8ySapVMUc1sutOXgSwXfcYBg==" length="2027846"/>
+      <description sparkle:format="markdown"><![CDATA[- Colored text keeps its color: red notes, blue text and highlighter colors now come along when you paste. Black, gray and white from the source's theme (or dark mode) still take the destination's color, and links take the destination's link color.
+- Email editors: the empty lines around a pasted list are now the same size as the text, and the font menu shows the editor's own font (for example "Sans Serif") instead of "Other Font".]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.10.dmg" type="application/octet-stream" sparkle:edSignature="bTen1ZJj57fGIMTPL4b1sVeWsVMvkzoW970LmpbtlFQjUVcLCQNLMdUCv0bbtkIYFDQbAY3ajqGYhVEqs4OYDw==" length="2031168"/>
     </item>
   </channel>
 </rss>
