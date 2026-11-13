@@ -3,14 +3,15 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.10</title>
-      <pubDate>Fri, 13 Nov 2026 18:40:43 +0000</pubDate>
-      <sparkle:version>18</sparkle:version>
-      <sparkle:shortVersionString>0.6.10</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.11</title>
+      <pubDate>Fri, 13 Nov 2026 19:29:13 +0000</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.6.11</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Colored text keeps its color: red notes, blue text and highlighter colors now come along when you paste. Black, gray and white from the source's theme (or dark mode) still take the destination's color, and links take the destination's link color.
-- Email editors: the empty lines around a pasted list are now the same size as the text, and the font menu shows the editor's own font (for example "Sans Serif") instead of "Other Font".]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.10.dmg" type="application/octet-stream" sparkle:edSignature="bTen1ZJj57fGIMTPL4b1sVeWsVMvkzoW970LmpbtlFQjUVcLCQNLMdUCv0bbtkIYFDQbAY3ajqGYhVEqs4OYDw==" length="2031168"/>
+      <description sparkle:format="markdown"><![CDATA[- Copying lines from an email (Mimestream, Gmail, Apple Mail) or Notes keeps them as they were: a name stays right above its link, and only the blank lines you had come along. No more gaps added between lines.
+- Colored text keeps its color: red notes, blue text and highlighter colors now come along when you paste. Black, gray and white from the source's theme (or dark mode) still take the destination's color, and links take the destination's link color.
+- Email editors: empty lines around a pasted list are the same size as the text, and the font menu shows the editor's own font (for example "Sans Serif") instead of "Other Font".]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.11.dmg" type="application/octet-stream" sparkle:edSignature="uvd5Xv0/al5YViIz1KFd5yGo31weAOnvOx21QT/f4plmnL8C7+d9Nqg/A26RjUOvjVrOpOymxfkAsWkgQMtNAA==" length="2035292"/>
     </item>
   </channel>
 </rss>
