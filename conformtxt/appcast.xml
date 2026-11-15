@@ -3,15 +3,17 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.14</title>
-      <pubDate>Sun, 15 Nov 2026 02:35:46 +0000</pubDate>
-      <sparkle:version>22</sparkle:version>
-      <sparkle:shortVersionString>0.6.14</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.15</title>
+      <pubDate>Sun, 15 Nov 2026 03:00:02 +0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.6.15</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- When ConformTXT can't tell the font where you're pasting, it now pastes plain text in that spot's own font (like Paste and Match Style) instead of formatted text in the app's default font (Times in Pages). Worst case, you lose the bold, never the look.
-- A brand-new email in Mimestream (and other Mac email apps): the first paste right after clicking into it now gets its font matched, instead of plain text.
-- History only says "Kept text colors" when the colors were actually pasted, and says what had the cursor when it couldn't check the font.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.14.dmg" type="application/octet-stream" sparkle:edSignature="FdaIoSfsNDwA0X1dQRyGrC1EznM2SjTvsHvCLSdDFHOgZv35l3BXrMbVZHqNmskzf8AV/gg2AfLFVub6fGjuCA==" length="2063524"/>
+      <description sparkle:format="markdown"><![CDATA[- ChatGPT, Codex and Claude: ConformTXT stays out. What you paste there goes in exactly as copied (they show it in their own font anyway).
+- A table copied from Excel, Google Sheets or Numbers pastes as normal, with its colors, borders and column widths.
+- Other tables keep their merged cells.
+- When the font can't be read and the copy has a table or picture, it's a normal paste instead of plain text, so nothing is lost.
+- Pages: plain text in the document's own font is now the expected result there, not flagged as a problem.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.15.dmg" type="application/octet-stream" sparkle:edSignature="fIw/NJF0TVZ71WrmH8Rwn6YaPMMNegGDEyHwnzLjxBSLOSJ89p2nQAG9OnhlxTHyqTYa/xWjKJam3Lofs+14Bg==" length="2069571"/>
     </item>
   </channel>
 </rss>
