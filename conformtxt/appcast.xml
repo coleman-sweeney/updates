@@ -3,13 +3,15 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.13</title>
-      <pubDate>Sun, 15 Nov 2026 02:13:41 +0000</pubDate>
-      <sparkle:version>21</sparkle:version>
-      <sparkle:shortVersionString>0.6.13</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.14</title>
+      <pubDate>Sun, 15 Nov 2026 02:35:46 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.6.14</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- For testing: Settings › "Allow Claude to test" lets Claude run paste tests on this Mac (ConformTXT then handles ⌘V pressed by another app like your own). It's off by default and switches itself off every time ConformTXT starts.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.13.dmg" type="application/octet-stream" sparkle:edSignature="0Svs1drTwU8THR6H/LhHzVZj5pMvOJLLXSMHsDozgAuD/m63Ut+Dc0z/USElN+GpKDhIG9HajMY9frt6da15CQ==" length="2062070"/>
+      <description sparkle:format="markdown"><![CDATA[- When ConformTXT can't tell the font where you're pasting, it now pastes plain text in that spot's own font (like Paste and Match Style) instead of formatted text in the app's default font (Times in Pages). Worst case, you lose the bold, never the look.
+- A brand-new email in Mimestream (and other Mac email apps): the first paste right after clicking into it now gets its font matched, instead of plain text.
+- History only says "Kept text colors" when the colors were actually pasted, and says what had the cursor when it couldn't check the font.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.14.dmg" type="application/octet-stream" sparkle:edSignature="FdaIoSfsNDwA0X1dQRyGrC1EznM2SjTvsHvCLSdDFHOgZv35l3BXrMbVZHqNmskzf8AV/gg2AfLFVub6fGjuCA==" length="2063524"/>
     </item>
   </channel>
 </rss>
