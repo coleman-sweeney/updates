@@ -3,17 +3,13 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.12</title>
-      <pubDate>Fri, 13 Nov 2026 23:26:11 +0000</pubDate>
-      <sparkle:version>20</sparkle:version>
-      <sparkle:shortVersionString>0.6.12</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.13</title>
+      <pubDate>Sun, 15 Nov 2026 02:13:41 +0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.6.13</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Pasting a chat message (Google Chat and others) into TextEdit, Word or Pages now takes the document's font, not Times, and keeps the message's own lines with no extra spacing.
-- Copying lines from an email (Mimestream, Gmail, Apple Mail) or Notes keeps them as they were: a name stays right above its link, and only the blank lines you had come along.
-- Colored text keeps its color: red notes, blue text and highlighter colors now come along. Black, gray and white from the source's theme still take the destination's color; links take the destination's link color.
-- Email editors: empty lines around a pasted list are the same size as the text, and the font menu shows the editor's own font (for example "Sans Serif").
-- For testing: Settings › Make Report (also in the right-click menu) puts one file on the Desktop with everything needed to look into a paste that went wrong. The first time, macOS asks whether ConformTXT may use the Desktop.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.12.dmg" type="application/octet-stream" sparkle:edSignature="quiWzpATAJw0waMEWOU4gORgt3AbOR6FTQ/gczOV9PLclrPJZFGCqXbw6bjPtFI9lKNXm6Ml3cjPc41jp3VlAg==" length="2059374"/>
+      <description sparkle:format="markdown"><![CDATA[- For testing: Settings › "Allow Claude to test" lets Claude run paste tests on this Mac (ConformTXT then handles ⌘V pressed by another app like your own). It's off by default and switches itself off every time ConformTXT starts.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.13.dmg" type="application/octet-stream" sparkle:edSignature="0Svs1drTwU8THR6H/LhHzVZj5pMvOJLLXSMHsDozgAuD/m63Ut+Dc0z/USElN+GpKDhIG9HajMY9frt6da15CQ==" length="2062070"/>
     </item>
   </channel>
 </rss>
