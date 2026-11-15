@@ -3,17 +3,13 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.15</title>
-      <pubDate>Sun, 15 Nov 2026 03:00:02 +0000</pubDate>
-      <sparkle:version>23</sparkle:version>
-      <sparkle:shortVersionString>0.6.15</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.16</title>
+      <pubDate>Sun, 15 Nov 2026 03:25:37 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.6.16</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- ChatGPT, Codex and Claude: ConformTXT stays out. What you paste there goes in exactly as copied (they show it in their own font anyway).
-- A table copied from Excel, Google Sheets or Numbers pastes as normal, with its colors, borders and column widths.
-- Other tables keep their merged cells.
-- When the font can't be read and the copy has a table or picture, it's a normal paste instead of plain text, so nothing is lost.
-- Pages: plain text in the document's own font is now the expected result there, not flagged as a problem.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.15.dmg" type="application/octet-stream" sparkle:edSignature="fIw/NJF0TVZ71WrmH8Rwn6YaPMMNegGDEyHwnzLjxBSLOSJ89p2nQAG9OnhlxTHyqTYa/xWjKJam3Lofs+14Bg==" length="2069571"/>
+      <description sparkle:format="markdown"><![CDATA[- Tables keep their lines: when the table you copied had borders, they come along (in the destination's font).]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.16.dmg" type="application/octet-stream" sparkle:edSignature="v7ksBaHORBJW8i+j1SYEIKZ+v3GWuiv8ihsHFeuqBRWBPnP64y1A3ho2Ec9af9geziluitWARKBR4LJvNfmKAg==" length="2076482"/>
     </item>
   </channel>
 </rss>
