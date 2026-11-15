@@ -3,19 +3,17 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.17</title>
-      <pubDate>Sun, 15 Nov 2026 04:15:13 +0000</pubDate>
-      <sparkle:version>25</sparkle:version>
-      <sparkle:shortVersionString>0.6.17</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.18</title>
+      <pubDate>Sun, 15 Nov 2026 05:03:24 +0000</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.6.18</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- No more guessing: when ConformTXT can't read the font where you're pasting, it pastes plain text in that spot's own font, never a font remembered from an earlier paste.
-- Nothing is quietly lost: superscripts and subscripts (m², CO₂) stay, visible text some sites mark for screen readers stays, definition lists keep their lines, and Word's footnote marks stay.
-- A copy with a picture that can't come along (from Word, Mail or Notes) is a normal paste, so the picture comes too. Plain text that would lose a link's address is a normal paste too.
-- Copying inside Pages, Numbers, Google Docs or Notion and pasting back into the same app keeps that app's own formatting.
-- Code and commands aren't mistaken for Markdown.
-- The invisible test character is only used in apps where it's been tested, and is checked before it's trusted.
-- ⌃⌘V right after a paste it can't swap no longer pastes the text twice.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.17.dmg" type="application/octet-stream" sparkle:edSignature="Be7kWRgUxEVUabun/264PKjoou47MqAKe4n4TJGTeMl7fqZ68WSyrvHwWhr7D5woCBOzmfG2uVcgSOlCVN9bBA==" length="2093850"/>
+      <description sparkle:format="markdown"><![CDATA[- Tables copied from TextEdit, Pages or Notes keep their lines.
+- The clipboard comes back exactly as you copied it, and ConformTXT's temporary version never syncs to your other devices.
+- A slow web app can no longer get the paste twice, and a paste that was called off can't fire late.
+- Big copies from Excel or Word start faster, and a copied picture with no words is pasted straight away.
+- Dvorak and other keyboard layouts: ⌘V is the key that types V.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.18.dmg" type="application/octet-stream" sparkle:edSignature="8eYbNIRBRIwJYJfme1P0JYJh3h3M1AQhJRJn9rK0V+tIhREVMYhojhakbfCcaXsZxcgM5bbZw6M7EX9U4IiECg==" length="2097017"/>
     </item>
   </channel>
 </rss>
