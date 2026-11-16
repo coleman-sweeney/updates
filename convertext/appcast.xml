@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>ConvertEXT</title>
+    <item>
+      <title>ConvertEXT 0.1.0</title>
+      <pubDate>Mon, 16 Nov 2026 17:25:08 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+
+      <enclosure url="https://coleman-sweeney.github.io/updates/convertext/ConvertEXT-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="aMLduNSqOLysYNvhaI3qZXzNeT0jkHE8b/z6/DcurFBCi4y1TptjoblJwXCzlfe9pVpBUC+Tunw5vMT5HdbiAg==" length="31562111"/>
+    </item>
+  </channel>
+</rss>
