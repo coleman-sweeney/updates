@@ -3,15 +3,13 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.24</title>
-      <pubDate>Mon, 16 Nov 2026 06:02:36 +0000</pubDate>
-      <sparkle:version>32</sparkle:version>
-      <sparkle:shortVersionString>0.6.24</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.25</title>
+      <pubDate>Mon, 16 Nov 2026 17:54:39 +0000</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>0.6.25</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- New look: ConformTXT's icon is now an ivory keycap with ⌘V in ink. On macOS 26 and later it's a Liquid Glass icon, with the Mac's dark, clear and tinted looks; earlier macOS versions get the same design as a flat icon.
-- The wordmark's ".txt" sits in an ink box with ivory text (ivory with ink text in dark mode).
-- Switches, links and buttons now use your Mac's accent color. A matched paste shows a green dot in History, and the menu bar icon flashes as a tiny ivory-and-ink app icon.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.24.dmg" type="application/octet-stream" sparkle:edSignature="qeJOMOC+fGy9nO6LKiICWxkOGhQlw+kPnRZ2PQTgoiFdy4uLrJmwDdU0v7x/QY3Ateq9z8PhvXp2EuU7isi1Cg==" length="4069552"/>
+      <description sparkle:format="markdown"><![CDATA[- Mimestream: a paste into text that uses Mimestream's default font now uses that same default, so Mimestream shows it as "Sans Serif" like your typed text (it showed "Other Font" before), and the email carries one font throughout for whoever reads it.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.25.dmg" type="application/octet-stream" sparkle:edSignature="ihY03wzVybENWy8i/UEm4mJ2iILb5GiG2bYoRraLpRODYCT6h3nhWp21/l7pDLk2TqOWCdACTnTdWhIdt0YNBA==" length="4069883"/>
     </item>
   </channel>
 </rss>
