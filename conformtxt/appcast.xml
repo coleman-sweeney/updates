@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>ConformTXT</title>
+    <title>ConformTxt</title>
     <item>
-      <title>ConformTXT 0.6.25</title>
-      <pubDate>Mon, 16 Nov 2026 17:54:39 +0000</pubDate>
-      <sparkle:version>33</sparkle:version>
-      <sparkle:shortVersionString>0.6.25</sparkle:shortVersionString>
+      <title>ConformTxt 0.6.26</title>
+      <pubDate>Mon, 16 Nov 2026 18:32:29 +0000</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>0.6.26</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Mimestream: a paste into text that uses Mimestream's default font now uses that same default, so Mimestream shows it as "Sans Serif" like your typed text (it showed "Other Font" before), and the email carries one font throughout for whoever reads it.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.25.dmg" type="application/octet-stream" sparkle:edSignature="ihY03wzVybENWy8i/UEm4mJ2iILb5GiG2bYoRraLpRODYCT6h3nhWp21/l7pDLk2TqOWCdACTnTdWhIdt0YNBA==" length="4069883"/>
+      <description sparkle:format="markdown"><![CDATA[- The app's name is now written ConformTxt everywhere (the wordmark stays conform.txt).
+- When ConformTxt is switched off, History and the paste settings gray out. Open at login, updates, Make Report and Feedback still work.
+- The About window, the Add app panel and ConformTxt's notes now open in front of other apps' windows, not behind them.
+- Only one copy of ConformTxt runs at a time: opening a new copy quits an older one that's still running.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTxt-0.6.26.dmg" type="application/octet-stream" sparkle:edSignature="vZUgxShRiZlcbl9L6Oh6emTVeYX3v3l1Jh4QRIe4Y3YlbVJRUW8Fy6Hweviz7XOlSo+qbm3zbPzLP4K+3q/8BA==" length="4080636"/>
     </item>
   </channel>
 </rss>
