@@ -3,17 +3,16 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.18</title>
-      <pubDate>Sun, 15 Nov 2026 05:03:24 +0000</pubDate>
-      <sparkle:version>26</sparkle:version>
-      <sparkle:shortVersionString>0.6.18</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.19</title>
+      <pubDate>Mon, 16 Nov 2026 02:00:03 +0000</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.6.19</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Tables copied from TextEdit, Pages or Notes keep their lines.
-- The clipboard comes back exactly as you copied it, and ConformTXT's temporary version never syncs to your other devices.
-- A slow web app can no longer get the paste twice, and a paste that was called off can't fire late.
-- Big copies from Excel or Word start faster, and a copied picture with no words is pasted straight away.
-- Dvorak and other keyboard layouts: ⌘V is the key that types V.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.18.dmg" type="application/octet-stream" sparkle:edSignature="8eYbNIRBRIwJYJfme1P0JYJh3h3M1AQhJRJn9rK0V+tIhREVMYhojhakbfCcaXsZxcgM5bbZw6M7EX9U4IiECg==" length="2097017"/>
+      <description sparkle:format="markdown"><![CDATA[- Tables keep sensible column widths, so words no longer break inside cells (Google Docs).
+- Right-click the icon to turn ConformTXT off or on, or to open Settings.
+- Clearer shortcut choices: "⌘V (every paste)" or "⌥⇧⌘V (⌘V stays normal)".
+- History says "Nothing yet." before your first paste.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.19.dmg" type="application/octet-stream" sparkle:edSignature="ASeaZ6ERVO0seB6WcMwWmBKm2WKGGyQ3pYgtDtn4pLjff75lImggCW0nDc3aPPcWOy8xA3Uh3ru0b4Dqnb8TBQ==" length="2112350"/>
     </item>
   </channel>
 </rss>
