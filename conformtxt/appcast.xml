@@ -3,14 +3,15 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.23</title>
-      <pubDate>Mon, 16 Nov 2026 03:07:02 +0000</pubDate>
-      <sparkle:version>31</sparkle:version>
-      <sparkle:shortVersionString>0.6.23</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.24</title>
+      <pubDate>Mon, 16 Nov 2026 06:02:36 +0000</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>0.6.24</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- The first paste into a brand-new email in Mimestream or Mail no longer stops with "the cursor moved". Typing the first character into an empty email moves the cursor into the email's first line, and ConformTXT now knows that's the same place.
-- When a paste is called off after the test letter was typed, the letter is taken back out (where the app shows it's still selected), so no stray space is left behind.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.23.dmg" type="application/octet-stream" sparkle:edSignature="htaKTB23ySlrxASsELNLMrbWxSkihpwy3MfIaijeBlDiqqLDZK8CO9CtGmSH/QqsYlAsc9Ko9YlE+Axbhf7aDg==" length="2115140"/>
+      <description sparkle:format="markdown"><![CDATA[- New look: ConformTXT's icon is now an ivory keycap with ⌘V in ink. On macOS 26 and later it's a Liquid Glass icon, with the Mac's dark, clear and tinted looks; earlier macOS versions get the same design as a flat icon.
+- The wordmark's ".txt" sits in an ink box with ivory text (ivory with ink text in dark mode).
+- Switches, links and buttons now use your Mac's accent color. A matched paste shows a green dot in History, and the menu bar icon flashes as a tiny ivory-and-ink app icon.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.24.dmg" type="application/octet-stream" sparkle:edSignature="qeJOMOC+fGy9nO6LKiICWxkOGhQlw+kPnRZ2PQTgoiFdy4uLrJmwDdU0v7x/QY3Ateq9z8PhvXp2EuU7isi1Cg==" length="4069552"/>
     </item>
   </channel>
 </rss>
