@@ -3,15 +3,15 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.21</title>
-      <pubDate>Mon, 16 Nov 2026 02:34:08 +0000</pubDate>
-      <sparkle:version>29</sparkle:version>
-      <sparkle:shortVersionString>0.6.21</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.22</title>
+      <pubDate>Mon, 16 Nov 2026 02:56:22 +0000</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.6.22</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- The first paste into a brand-new, empty email in Mimestream or Mail now matches the email's font instead of coming in as plain text. (The empty email reports itself as a whole page, not a text field, and ConformTXT now checks it.)
-- ⌃⌘V can now swap back the first paste in a field too (the one where ConformTXT checks the font with its test letter).
-- When ⌃⌘V can't swap, History notes it once instead of on every press.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.21.dmg" type="application/octet-stream" sparkle:edSignature="oiLQmhPlQxLO2dazsS+y0OTNisAvT1XtitU8l5GZNKvkrQfJwcKUTCEmOLkVd9tl/Uob09GadkWPxKR/cAVoDg==" length="2113259"/>
+      <description sparkle:format="markdown"><![CDATA[- ⌃⌘V beeps every time it can't swap, including the first press (before, the first press could do nothing silently).
+- After a swap that undid the matched paste but couldn't finish, the next ⌃⌘V pastes the original instead of beeping.
+- ChatGPT's link chips (which ChatGPT copies without their links) no longer leave a double space behind.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.22.dmg" type="application/octet-stream" sparkle:edSignature="8FTuO5ghWiYqh/YCY9r/4YdFC17uKruWH61TLjil6w3n1rqWAO5L3VwX5x5WqcVWLPsi6uW6CSpcZ223YOcaCw==" length="2113890"/>
     </item>
   </channel>
 </rss>
