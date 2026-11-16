@@ -3,15 +3,15 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.20</title>
-      <pubDate>Mon, 16 Nov 2026 02:21:35 +0000</pubDate>
-      <sparkle:version>28</sparkle:version>
-      <sparkle:shortVersionString>0.6.20</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.21</title>
+      <pubDate>Mon, 16 Nov 2026 02:34:08 +0000</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.6.21</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- The first paste into a brand-new email in Mimestream or Mail waits a little longer for the email to be ready, so it matches instead of coming in as plain text.
-- ⌃⌘V right after a paste it can't swap keeps beeping (and pasting nothing) until you type, click or press ⌘Z, so the text is never pasted twice.
-- Invisible characters left by ChatGPT's link chips are taken out.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.20.dmg" type="application/octet-stream" sparkle:edSignature="zF2Aa3Aw8stdhFvkHIDHrBqA92AF9yWYDeU58NRg8vSHhVeecyrUJbgR0BX2Q1enRn8OKx7lPmGeC29j32fCAw==" length="2111987"/>
+      <description sparkle:format="markdown"><![CDATA[- The first paste into a brand-new, empty email in Mimestream or Mail now matches the email's font instead of coming in as plain text. (The empty email reports itself as a whole page, not a text field, and ConformTXT now checks it.)
+- ⌃⌘V can now swap back the first paste in a field too (the one where ConformTXT checks the font with its test letter).
+- When ⌃⌘V can't swap, History notes it once instead of on every press.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.21.dmg" type="application/octet-stream" sparkle:edSignature="oiLQmhPlQxLO2dazsS+y0OTNisAvT1XtitU8l5GZNKvkrQfJwcKUTCEmOLkVd9tl/Uob09GadkWPxKR/cAVoDg==" length="2113259"/>
     </item>
   </channel>
 </rss>
