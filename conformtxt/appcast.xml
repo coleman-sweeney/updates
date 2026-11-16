@@ -3,15 +3,14 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.22</title>
-      <pubDate>Mon, 16 Nov 2026 02:56:22 +0000</pubDate>
-      <sparkle:version>30</sparkle:version>
-      <sparkle:shortVersionString>0.6.22</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.23</title>
+      <pubDate>Mon, 16 Nov 2026 03:07:02 +0000</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.6.23</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- ⌃⌘V beeps every time it can't swap, including the first press (before, the first press could do nothing silently).
-- After a swap that undid the matched paste but couldn't finish, the next ⌃⌘V pastes the original instead of beeping.
-- ChatGPT's link chips (which ChatGPT copies without their links) no longer leave a double space behind.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.22.dmg" type="application/octet-stream" sparkle:edSignature="8FTuO5ghWiYqh/YCY9r/4YdFC17uKruWH61TLjil6w3n1rqWAO5L3VwX5x5WqcVWLPsi6uW6CSpcZ223YOcaCw==" length="2113890"/>
+      <description sparkle:format="markdown"><![CDATA[- The first paste into a brand-new email in Mimestream or Mail no longer stops with "the cursor moved". Typing the first character into an empty email moves the cursor into the email's first line, and ConformTXT now knows that's the same place.
+- When a paste is called off after the test letter was typed, the letter is taken back out (where the app shows it's still selected), so no stray space is left behind.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.23.dmg" type="application/octet-stream" sparkle:edSignature="htaKTB23ySlrxASsELNLMrbWxSkihpwy3MfIaijeBlDiqqLDZK8CO9CtGmSH/QqsYlAsc9Ko9YlE+Axbhf7aDg==" length="2115140"/>
     </item>
   </channel>
 </rss>
