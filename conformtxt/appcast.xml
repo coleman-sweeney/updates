@@ -3,16 +3,15 @@
   <channel>
     <title>ConformTXT</title>
     <item>
-      <title>ConformTXT 0.6.19</title>
-      <pubDate>Mon, 16 Nov 2026 02:00:03 +0000</pubDate>
-      <sparkle:version>27</sparkle:version>
-      <sparkle:shortVersionString>0.6.19</sparkle:shortVersionString>
+      <title>ConformTXT 0.6.20</title>
+      <pubDate>Mon, 16 Nov 2026 02:21:35 +0000</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.6.20</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Tables keep sensible column widths, so words no longer break inside cells (Google Docs).
-- Right-click the icon to turn ConformTXT off or on, or to open Settings.
-- Clearer shortcut choices: "⌘V (every paste)" or "⌥⇧⌘V (⌘V stays normal)".
-- History says "Nothing yet." before your first paste.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.19.dmg" type="application/octet-stream" sparkle:edSignature="ASeaZ6ERVO0seB6WcMwWmBKm2WKGGyQ3pYgtDtn4pLjff75lImggCW0nDc3aPPcWOy8xA3Uh3ru0b4Dqnb8TBQ==" length="2112350"/>
+      <description sparkle:format="markdown"><![CDATA[- The first paste into a brand-new email in Mimestream or Mail waits a little longer for the email to be ready, so it matches instead of coming in as plain text.
+- ⌃⌘V right after a paste it can't swap keeps beeping (and pasting nothing) until you type, click or press ⌘Z, so the text is never pasted twice.
+- Invisible characters left by ChatGPT's link chips are taken out.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT-0.6.20.dmg" type="application/octet-stream" sparkle:edSignature="zF2Aa3Aw8stdhFvkHIDHrBqA92AF9yWYDeU58NRg8vSHhVeecyrUJbgR0BX2Q1enRn8OKx7lPmGeC29j32fCAw==" length="2111987"/>
     </item>
   </channel>
 </rss>
