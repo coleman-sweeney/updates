@@ -3,16 +3,18 @@
   <channel>
     <title>ConformTxt</title>
     <item>
-      <title>ConformTxt 0.6.26</title>
-      <pubDate>Mon, 16 Nov 2026 18:32:29 +0000</pubDate>
-      <sparkle:version>34</sparkle:version>
-      <sparkle:shortVersionString>0.6.26</sparkle:shortVersionString>
+      <title>ConformTxt 0.6.28</title>
+      <pubDate>Tue, 17 Nov 2026 02:26:32 +0000</pubDate>
+      <sparkle:version>36</sparkle:version>
+      <sparkle:shortVersionString>0.6.28</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- The app's name is now written ConformTxt everywhere (the wordmark stays conform.txt).
-- When ConformTxt is switched off, History and the paste settings gray out. Open at login, updates, Make Report and Feedback still work.
-- The About window, the Add app panel and ConformTxt's notes now open in front of other apps' windows, not behind them.
-- Only one copy of ConformTxt runs at a time: opening a new copy quits an older one that's still running.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTxt-0.6.26.dmg" type="application/octet-stream" sparkle:edSignature="vZUgxShRiZlcbl9L6Oh6emTVeYX3v3l1Jh4QRIe4Y3YlbVJRUW8Fy6Hweviz7XOlSo+qbm3zbPzLP4K+3q/8BA==" length="4080636"/>
+      <description sparkle:format="markdown"><![CDATA[- The About window now always opens in front of other apps' windows.
+- The menu bar icon's ⌘V is a little smaller and centered in its key, with room to the edge (the matched-paste flash too).
+- Send Feedback opens an email with ConformTxt's version, your Mac, its settings and how the last few pastes went, all written out so you can see it before sending. Never any pasted text, and nothing attached. Make Report is gone.
+- If ConformTxt ever quits unexpectedly, the next launch offers to send that same email.
+- Text in the panel and About uses the same sizes as ConvertExt.
+- ConformTxt's Liquid Glass icon has its own name, so macOS can't mix it up with another app's icon.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTxt-0.6.28.dmg" type="application/octet-stream" sparkle:edSignature="+ym8IccTPYgQOxw0p2EHp5mo+i7S+pqjCC3DImQFDeM6YKg8LTaKiVXhsnR28/T+ShxAFK7AZ2ZHSF3XgIzWDg==" length="4081368"/>
     </item>
   </channel>
 </rss>
