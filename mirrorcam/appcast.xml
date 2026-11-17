@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MirrorCam</title>
+    <item>
+      <title>MirrorCam 1.4.0</title>
+      <pubDate>Tue, 17 Nov 2026 04:20:42 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[- Mirror is now MirrorCam, with a new icon and wordmark (mirror.cam)
+- The window always keeps your camera's shape (any size you like), so there are no black bars and the soft light is even all around
+- Click anywhere in the mirror to show the controls; drag to move the window
+- Help → Send Feedback… writes the email for you (version, settings, recent activity; nothing personal)
+- Settings and About use your Mac's accent color and open in front]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/mirrorcam/MirrorCam-1.4.0.dmg" type="application/octet-stream" sparkle:edSignature="TUUT/aveokEXrGYxxzxsB0pfBK+6bGI/JyiwkzEsI7en/IX6bQLDRonRT0PA0AFaFbZ2xS1X3sGEcWYmFlC4AA==" length="3272996"/>
+    </item>
+  </channel>
+</rss>
