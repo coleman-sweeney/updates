@@ -3,15 +3,18 @@
   <channel>
     <title>EasySqueezy</title>
     <item>
-      <title>EasySqueezy 1.0.2</title>
-      <pubDate>Mon, 09 Nov 2026 02:12:56 +0000</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <title>EasySqueezy 1.0.3</title>
+      <pubDate>Tue, 17 Nov 2026 01:47:52 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[### EasySqueezy 1.0.2
+      <description sparkle:format="markdown"><![CDATA[### EasySqueezy 1.0.3
 
-- Small fixes.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/easysqueezy/EasySqueezy-1.0.2.dmg" type="application/octet-stream" sparkle:edSignature="+j9AbDMr8DOD2TjG0/UvhQ8QRJUhEyUybkxPgTsLf63twpCWdpNmeh/jX03cAKgr8i4YdUor4KBblQLr9d3tCQ==" length="3335202"/>
+- Help › Send Feedback… now fills in what helps us look into a problem: your EasySqueezy and macOS versions, your settings, and the last few squeezes (never file names).
+- The estimated file size lines up neatly under the choices above it.
+- A darker wordmark, matching the rest of the family.
+- The About window always opens in front.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/easysqueezy/EasySqueezy-1.0.3.dmg" type="application/octet-stream" sparkle:edSignature="fpSMXbaSb/3ob1JSK8fruvEHvYZ+dIoAojwryMjzZpoEvIm58satNaseMHNXqrszJd7G1VoqwzO8wHAYE+73Cg==" length="3344173"/>
     </item>
   </channel>
 </rss>

@@ -3,17 +3,18 @@
   <channel>
     <title>Attachable</title>
     <item>
-      <title>Attachable 1.0.6</title>
-      <pubDate>Thu, 12 Nov 2026 03:06:19 +0000</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <title>Attachable 1.0.7</title>
+      <pubDate>Tue, 17 Nov 2026 01:48:26 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[### Attachable 1.0.6
+      <description sparkle:format="markdown"><![CDATA[### Attachable 1.0.7
 
-- The right-click actions now show they're working: a progress bar under the file or folder in Finder, and a small box at the top right of the screen ("Compressing 7 of 100…").
-- A clearer message when something can't fit one email: how small it got, and what to do instead.
-- Small fixes.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/attachable/Attachable-1.0.6.dmg" type="application/octet-stream" sparkle:edSignature="tuZueZrYmq4GRPtlSsjTuEMeOT8j1YnehhurkmY7ivC8ePwlWLu9zuJKF/eGQ3GYhHvcpw7jaGc7PLFCymwOAQ==" length="7380639"/>
+- Setting up the right-click actions is quicker: the guide opens System Settings for you.
+- Help › Send Feedback… now fills in what helps us look into a problem: your Attachable and macOS versions, your settings, and the last few jobs (never file names).
+- A darker wordmark, matching the rest of the family.
+- The About window and the setup guide always open in front.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/attachable/Attachable-1.0.7.dmg" type="application/octet-stream" sparkle:edSignature="U+rcc+/eHxpMEhvMn9ZhjbjOuWsVpoqyWDSNuA7yTfUev/1pz/sBrGUnHypWhjppRjDLEdNuHFxgF5yg3BrOAQ==" length="7403167"/>
     </item>
   </channel>
 </rss>
