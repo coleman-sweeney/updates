@@ -3,17 +3,15 @@
   <channel>
     <title>MirrorCam</title>
     <item>
-      <title>MirrorCam 1.4.1</title>
-      <pubDate>Wed, 18 Nov 2026 18:36:12 +0000</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <title>MirrorCam 1.4.2</title>
+      <pubDate>Wed, 18 Nov 2026 23:57:58 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- The mirror is always 16:9, the shape video calls use, with every camera (newer MacBook cameras made it square)
-- Pick your camera from the new camera button at the top of the controls, or in Settings (your iPhone shows up when it's nearby)
-- The line in the bottom corner starts with the camera in use and shows and fades with the controls
-- The controls stay exactly in place when you turn the light on or off, and resizing is smooth with no snap when you let go
-- Fixes: About opens in front when MirrorCam floats on top, ⌘ shortcuts no longer trigger the panel's keys, and the camera starts on its own once you allow it in System Settings]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/mirrorcam/MirrorCam-1.4.1.dmg" type="application/octet-stream" sparkle:edSignature="Y3BfA2kjtw3B6zcR/ek/Z1BF/JYB8lJ6aYYBaGZxNDPAvXcKlY06JhmOW6lRG99YqxuJG+zKFLTY8xR4zwtVDQ==" length="3316626"/>
+      <description sparkle:format="markdown"><![CDATA[- Turning the light on or off is now a quick, smooth motion: the white frame grows in from the edges, and the window keeps its size
+- The wordmark and the icon in About follow your Mac's accent color, like the switches and links
+- A new icon in Mac blue, matching the other utilities]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/mirrorcam/MirrorCam-1.4.2.dmg" type="application/octet-stream" sparkle:edSignature="I+dEKSqXjj4HZH1Ryea+nIS26ci+Oca5OD0jBGelvYOyG0OxGJKEz8Uv4z/MWYymGaKpt7NTe7myzUGIDv45AA==" length="3037862"/>
     </item>
   </channel>
 </rss>
