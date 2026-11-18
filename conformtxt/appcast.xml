@@ -3,18 +3,15 @@
   <channel>
     <title>ConformTxt</title>
     <item>
-      <title>ConformTxt 0.6.28</title>
-      <pubDate>Tue, 17 Nov 2026 02:26:32 +0000</pubDate>
-      <sparkle:version>36</sparkle:version>
-      <sparkle:shortVersionString>0.6.28</sparkle:shortVersionString>
+      <title>ConformTxt 0.6.29</title>
+      <pubDate>Wed, 18 Nov 2026 17:12:37 +0000</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>0.6.29</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- The About window now always opens in front of other apps' windows.
-- The menu bar icon's ⌘V is a little smaller and centered in its key, with room to the edge (the matched-paste flash too).
-- Send Feedback opens an email with ConformTxt's version, your Mac, its settings and how the last few pastes went, all written out so you can see it before sending. Never any pasted text, and nothing attached. Make Report is gone.
-- If ConformTxt ever quits unexpectedly, the next launch offers to send that same email.
-- Text in the panel and About uses the same sizes as ConvertExt.
-- ConformTxt's Liquid Glass icon has its own name, so macOS can't mix it up with another app's icon.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTxt-0.6.28.dmg" type="application/octet-stream" sparkle:edSignature="+ym8IccTPYgQOxw0p2EHp5mo+i7S+pqjCC3DImQFDeM6YKg8LTaKiVXhsnR28/T+ShxAFK7AZ2ZHSF3XgIzWDg==" length="4081368"/>
+      <description sparkle:format="markdown"><![CDATA[- In emails, a list now sits right under its heading or lead-in line, the way it does in Word and Pages. The empty line after the list stays.
+- The installer window shows the version ("ConformTxt 0.6.29").
+- In History, a long app name now shortens first, so "Matched" and the time always show in full.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTxt-0.6.29.dmg" type="application/octet-stream" sparkle:edSignature="cGDEGub2d6XpbbcRLHuhMUrlUSncgFCnjNLlo+oW/VEYL73n6p55xgn//P19OU4yYGhUgkrehhzUweP1QfAdBQ==" length="4086679"/>
     </item>
   </channel>
 </rss>
