@@ -3,15 +3,15 @@
   <channel>
     <title>ConformTxt</title>
     <item>
-      <title>ConformTxt 0.6.29</title>
-      <pubDate>Wed, 18 Nov 2026 17:12:37 +0000</pubDate>
-      <sparkle:version>37</sparkle:version>
-      <sparkle:shortVersionString>0.6.29</sparkle:shortVersionString>
+      <title>ConformTxt 0.6.30</title>
+      <pubDate>Thu, 19 Nov 2026 00:02:10 +0000</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>0.6.30</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- In emails, a list now sits right under its heading or lead-in line, the way it does in Word and Pages. The empty line after the list stays.
-- The installer window shows the version ("ConformTxt 0.6.29").
-- In History, a long app name now shortens first, so "Matched" and the time always show in full.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTxt-0.6.29.dmg" type="application/octet-stream" sparkle:edSignature="cGDEGub2d6XpbbcRLHuhMUrlUSncgFCnjNLlo+oW/VEYL73n6p55xgn//P19OU4yYGhUgkrehhzUweP1QfAdBQ==" length="4086679"/>
+      <description sparkle:format="markdown"><![CDATA[- The wordmark's ".txt" box and the icon in the About window now follow your Mac's accent color (System Settings → Appearance), the same as ConvertExt. They change the moment you change the setting.
+- New app icon: white key and ⌘V on Mac blue, the default Mac look. So is the matched-paste flash in the menu bar, which also takes your accent color.
+- Word and Outlook: ConformTxt now checks the font at the cursor there too (as in Mimestream), so pastes keep real bullets and bold in the document's font instead of plain text. New, so tell us with Send Feedback if anything looks off.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTxt-0.6.30.dmg" type="application/octet-stream" sparkle:edSignature="uDuR8YHV5saEO9XhXk6uRH/5CC2ldb/IGxUmolot3SEx2B8PkYObR7FiwUssgO+X0VILbBuTR0HgUb7GqgzjAw==" length="3781186"/>
     </item>
   </channel>
 </rss>
