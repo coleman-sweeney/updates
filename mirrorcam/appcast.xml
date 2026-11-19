@@ -3,15 +3,14 @@
   <channel>
     <title>MirrorCam</title>
     <item>
-      <title>MirrorCam 1.4.2</title>
-      <pubDate>Wed, 18 Nov 2026 23:57:58 +0000</pubDate>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+      <title>MirrorCam 1.4.3</title>
+      <pubDate>Thu, 19 Nov 2026 21:43:46 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Turning the light on or off is now a quick, smooth motion: the white frame grows in from the edges, and the window keeps its size
-- The wordmark and the icon in About follow your Mac's accent color, like the switches and links
-- A new icon in Mac blue, matching the other utilities]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/mirrorcam/MirrorCam-1.4.2.dmg" type="application/octet-stream" sparkle:edSignature="I+dEKSqXjj4HZH1Ryea+nIS26ci+Oca5OD0jBGelvYOyG0OxGJKEz8Uv4z/MWYymGaKpt7NTe7myzUGIDv45AA==" length="3037862"/>
+      <description sparkle:format="markdown"><![CDATA[- Pick your camera by clicking its name in the bottom corner; the controls now hold only what changes the picture
+- A richer Liquid Glass icon, matching the other utilities, also in About (in your accent color)]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/mirrorcam/MirrorCam-1.4.3.dmg" type="application/octet-stream" sparkle:edSignature="tYzzZgSRzTjUcF+diKj38jp3KM1Zg1fNEvQao0EyRCpaW3Nmm4WGT+3+YK0NG9Ce5PIrmWoX1pXDm61T9CNhDw==" length="4038198"/>
     </item>
   </channel>
 </rss>
