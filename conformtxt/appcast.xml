@@ -3,15 +3,15 @@
   <channel>
     <title>ConformTxt</title>
     <item>
-      <title>ConformTxt 0.6.30</title>
-      <pubDate>Thu, 19 Nov 2026 00:02:10 +0000</pubDate>
-      <sparkle:version>38</sparkle:version>
-      <sparkle:shortVersionString>0.6.30</sparkle:shortVersionString>
+      <title>ConformTxt 0.6.31</title>
+      <pubDate>Thu, 19 Nov 2026 22:04:54 +0000</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>0.6.31</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- The wordmark's ".txt" box and the icon in the About window now follow your Mac's accent color (System Settings → Appearance), the same as ConvertExt. They change the moment you change the setting.
-- New app icon: white key and ⌘V on Mac blue, the default Mac look. So is the matched-paste flash in the menu bar, which also takes your accent color.
-- Word and Outlook: ConformTxt now checks the font at the cursor there too (as in Mimestream), so pastes keep real bullets and bold in the document's font instead of plain text. New, so tell us with Send Feedback if anything looks off.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTxt-0.6.30.dmg" type="application/octet-stream" sparkle:edSignature="uDuR8YHV5saEO9XhXk6uRH/5CC2ldb/IGxUmolot3SEx2B8PkYObR7FiwUssgO+X0VILbBuTR0HgUb7GqgzjAw==" length="3781186"/>
+      <description sparkle:format="markdown"><![CDATA[- Word and Outlook: the font check now runs in the document itself, so a paste takes the document's font with real bullets and bold.
+- A plain-text paste with nothing to format no longer shows a red "Not matched" when the font can't be read. It's a normal paste.
+- A richer app icon: the same key and ⌘V on a deeper blue with more glass depth, matching the other utilities. The icon in About has the same depth, in your accent color.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTxt-0.6.31.dmg" type="application/octet-stream" sparkle:edSignature="WZ18Z8VNUHTM3xtZFa7gyIOWZbWt9KEW5tWUWPPKaS+/swNWZkhSkgoyolfAPAa51s7reD06IH/K7+fFGMOqCQ==" length="4674714"/>
     </item>
   </channel>
 </rss>
