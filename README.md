@@ -8,5 +8,4 @@ Update feed and downloads for Mac apps.
 | EasySqueezy | [EasySqueezy.dmg](https://coleman-sweeney.github.io/updates/easysqueezy/EasySqueezy.dmg) | `easysqueezy/appcast.xml` |
 | ConformTXT | [ConformTXT.dmg](https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT.dmg) | `conformtxt/appcast.xml` |
 | MirrorCam | [MirrorCam.dmg](https://coleman-sweeney.github.io/updates/mirrorcam/MirrorCam.dmg) | `mirrorcam/appcast.xml` |
-| Mirror (old, replaced by MirrorCam) | [Mirror.dmg](https://coleman-sweeney.github.io/updates/mirror/Mirror.dmg) | `mirror/appcast.xml` |
 | ConvertExt | [ConvertExt.dmg](https://coleman-sweeney.github.io/updates/convertext/ConvertExt.dmg) | `convertext/appcast.xml` |
