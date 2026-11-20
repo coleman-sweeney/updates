@@ -3,14 +3,14 @@
   <channel>
     <title>MirrorCam</title>
     <item>
-      <title>MirrorCam 1.4.3</title>
-      <pubDate>Thu, 19 Nov 2026 21:43:46 +0000</pubDate>
-      <sparkle:version>9</sparkle:version>
-      <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+      <title>MirrorCam 1.4.4</title>
+      <pubDate>Fri, 20 Nov 2026 00:18:08 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Pick your camera by clicking its name in the bottom corner; the controls now hold only what changes the picture
-- A richer Liquid Glass icon, matching the other utilities, also in About (in your accent color)]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/mirrorcam/MirrorCam-1.4.3.dmg" type="application/octet-stream" sparkle:edSignature="tYzzZgSRzTjUcF+diKj38jp3KM1Zg1fNEvQao0EyRCpaW3Nmm4WGT+3+YK0NG9Ce5PIrmWoX1pXDm61T9CNhDw==" length="4038198"/>
+      <description sparkle:format="markdown"><![CDATA[- A cleaner status line: no dot after the camera's name
+- Behind-the-scenes tidy-up: MirrorCam's name all the way through (your window keeps its spot)]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/mirrorcam/MirrorCam-1.4.4.dmg" type="application/octet-stream" sparkle:edSignature="ZlyGvnvSUsDTfDlFV0+QNHqetgSnLBxs2IDAG9XzkFFNusRlUllPqxuKBmAsItrVAP1sPRZEyqGgdmAZdw2ZDA==" length="4038583"/>
     </item>
   </channel>
 </rss>
