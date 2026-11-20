@@ -3,15 +3,14 @@
   <channel>
     <title>ConformTxt</title>
     <item>
-      <title>ConformTxt 0.6.32</title>
-      <pubDate>Fri, 20 Nov 2026 01:56:16 +0000</pubDate>
-      <sparkle:version>40</sparkle:version>
-      <sparkle:shortVersionString>0.6.32</sparkle:shortVersionString>
+      <title>ConformTxt 0.6.33</title>
+      <pubDate>Fri, 20 Nov 2026 18:39:53 +0000</pubDate>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>0.6.33</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Word and Outlook: the first ⌘V in a document no longer stops with "the cursor moved" and an invisible character left selected. It pastes, matched, on the first press.
-- Word and Outlook: the paste takes the document's own font (Aptos and the other Office fonts) instead of Helvetica.
-- Settings: the testing switch (Allow Claude to test) is gone.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTxt-0.6.32.dmg" type="application/octet-stream" sparkle:edSignature="oAIzM7MHvGA4Gi2uQIQGwhRtkxXr2MqKeHSoDqOlXIjveTIJrcss7KGJcVjDlKwHAuLL43L5hoB9gfQPH158Ag==" length="4685234"/>
+      <description sparkle:format="markdown"><![CDATA[- Word and Outlook: the first ⌘V after clicking into a document or email now pastes, matched, instead of stopping with "the cursor moved" (and no stray space is left at the start).
+- Word and Outlook: pasted text comes in at the document's size (12 stays 12; it was coming in at 9).]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTxt-0.6.33.dmg" type="application/octet-stream" sparkle:edSignature="K3cxIZCjvBUB3zifRa6y6cc2nqiZvWF8KYhwnNisRKxIlzm3WpDPXLlSdulywlCDNFu0nb+tNH9aYJdJNMf0Bg==" length="4685881"/>
     </item>
   </channel>
 </rss>
