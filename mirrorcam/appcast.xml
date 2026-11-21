@@ -3,14 +3,16 @@
   <channel>
     <title>MirrorCam</title>
     <item>
-      <title>MirrorCam 1.4.4</title>
-      <pubDate>Fri, 20 Nov 2026 00:18:08 +0000</pubDate>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
+      <title>MirrorCam 1.4.5</title>
+      <pubDate>Sat, 21 Nov 2026 00:32:12 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- A cleaner status line: no dot after the camera's name
-- Behind-the-scenes tidy-up: MirrorCam's name all the way through (your window keeps its spot)]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/mirrorcam/MirrorCam-1.4.4.dmg" type="application/octet-stream" sparkle:edSignature="ZlyGvnvSUsDTfDlFV0+QNHqetgSnLBxs2IDAG9XzkFFNusRlUllPqxuKBmAsItrVAP1sPRZEyqGgdmAZdw2ZDA==" length="4038583"/>
+      <description sparkle:format="markdown"><![CDATA[- Edges: in Settings or the View menu, pick Hard (as before), Soft, Softer or Softest. The soft ones fade the mirror into whatever's behind it, with small corner marks that show while the toolbar does
+- The toolbar sits on Apple's Liquid Glass (macOS 26 and later)
+- MirrorCam now opens fresh every time: no zoom, and the light, Enhance and Sharpen off. To keep things as you left them, turn on Settings › Remember my settings
+- Settings and About use the Mac's own colors, matching your other apps in light and dark mode]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/mirrorcam/MirrorCam-1.4.5.dmg" type="application/octet-stream" sparkle:edSignature="aCpmy92+7B8+imbCltw2qyfR4qPhCwb6+4zBwICdotEBNMTaL5MfHzAgPE3I1cFk9u8bpH9jjCfzgqruimuTBw==" length="4043320"/>
     </item>
   </channel>
 </rss>
