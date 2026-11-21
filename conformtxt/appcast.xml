@@ -3,14 +3,15 @@
   <channel>
     <title>ConformTxt</title>
     <item>
-      <title>ConformTxt 0.6.33</title>
-      <pubDate>Fri, 20 Nov 2026 18:39:53 +0000</pubDate>
-      <sparkle:version>41</sparkle:version>
-      <sparkle:shortVersionString>0.6.33</sparkle:shortVersionString>
+      <title>ConformTxt 0.6.34</title>
+      <pubDate>Sat, 21 Nov 2026 00:41:13 +0000</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>0.6.34</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Word and Outlook: the first ⌘V after clicking into a document or email now pastes, matched, instead of stopping with "the cursor moved" (and no stray space is left at the start).
-- Word and Outlook: pasted text comes in at the document's size (12 stays 12; it was coming in at 9).]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTxt-0.6.33.dmg" type="application/octet-stream" sparkle:edSignature="K3cxIZCjvBUB3zifRa6y6cc2nqiZvWF8KYhwnNisRKxIlzm3WpDPXLlSdulywlCDNFu0nb+tNH9aYJdJNMf0Bg==" length="4685881"/>
+      <description sparkle:format="markdown"><![CDATA[- New in Settings: Show in menu bar. Turn it off to hide the icon; ConformTxt keeps working, and opening it again from Finder or Spotlight brings up its panel.
+- A table copied from Excel always comes in as a normal paste, in every app, with its colors and borders (in Mimestream it could lose its cell colors).
+- The panel has the same look as System Settings and ConvertExt: white behind light gray boxes.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTxt-0.6.34.dmg" type="application/octet-stream" sparkle:edSignature="4IIjSmM112x5ILkxHDGGUBEowDsaWy0URZr6BsKjwiIiZT5MaSPgjOwr/nGXQ9Ws+mSo6Dbp4kUlUs1G+ZgUAw==" length="4697018"/>
     </item>
   </channel>
 </rss>
