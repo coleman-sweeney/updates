@@ -3,18 +3,18 @@
   <channel>
     <title>EasySqueezy</title>
     <item>
-      <title>EasySqueezy 1.0.3</title>
-      <pubDate>Tue, 17 Nov 2026 01:47:52 +0000</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <title>EasySqueezy 1.0.4</title>
+      <pubDate>Sun, 22 Nov 2026 22:59:40 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[### EasySqueezy 1.0.3
+      <description sparkle:format="markdown"><![CDATA[### EasySqueezy 1.0.4
 
-- Help › Send Feedback… now fills in what helps us look into a problem: your EasySqueezy and macOS versions, your settings, and the last few squeezes (never file names).
-- The estimated file size lines up neatly under the choices above it.
-- A darker wordmark, matching the rest of the family.
-- The About window always opens in front.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/easysqueezy/EasySqueezy-1.0.3.dmg" type="application/octet-stream" sparkle:edSignature="fpSMXbaSb/3ob1JSK8fruvEHvYZ+dIoAojwryMjzZpoEvIm58satNaseMHNXqrszJd7G1VoqwzO8wHAYE+73Cg==" length="3344173"/>
+- The current macOS look: on macOS 26 and later, the title bar and window buttons now match Finder and other current apps.
+- A little more room around the edges of the window, matching the Mac's own spacing.
+- Zoom and Bring All to Front in the Window menu, and Services in the app menu, like every Mac app.
+- The About window's credits are easier to read, and Esc closes it.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/easysqueezy/EasySqueezy-1.0.4.dmg" type="application/octet-stream" sparkle:edSignature="LHw2WtJVbn0tqFJY/NabWi0CeSQhaSEDGDHK1nuCJSKHu+PALjWEdv/7pAqcqSbI1v3uOfeUAqvrLOBvpSISAg==" length="3328191"/>
     </item>
   </channel>
 </rss>

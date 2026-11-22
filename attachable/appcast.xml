@@ -3,18 +3,18 @@
   <channel>
     <title>Attachable</title>
     <item>
-      <title>Attachable 1.0.7</title>
-      <pubDate>Tue, 17 Nov 2026 01:48:26 +0000</pubDate>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <title>Attachable 1.0.8</title>
+      <pubDate>Sun, 22 Nov 2026 23:23:03 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[### Attachable 1.0.7
+      <description sparkle:format="markdown"><![CDATA[### Attachable 1.0.8
 
-- Setting up the right-click actions is quicker: the guide opens System Settings for you.
-- Help › Send Feedback… now fills in what helps us look into a problem: your Attachable and macOS versions, your settings, and the last few jobs (never file names).
-- A darker wordmark, matching the rest of the family.
-- The About window and the setup guide always open in front.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/attachable/Attachable-1.0.7.dmg" type="application/octet-stream" sparkle:edSignature="U+rcc+/eHxpMEhvMn9ZhjbjOuWsVpoqyWDSNuA7yTfUev/1pz/sBrGUnHypWhjppRjDLEdNuHFxgF5yg3BrOAQ==" length="7403167"/>
+- The current macOS look: on macOS 26 and later, the title bar and window buttons now match Finder and other current apps.
+- A little more room around the edges of the window, matching the Mac's own spacing.
+- Zoom and Bring All to Front in the Window menu, like every Mac app.
+- The About window's credits are easier to read, and Esc closes it.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/attachable/Attachable-1.0.8.dmg" type="application/octet-stream" sparkle:edSignature="ygjRc1pegLkUqkTEdpa14b4zdF/RsG6HG9mjidCpbF20IehxaNJDI6TtyNDF4se1oVL56oWu9DtV9PDo1p3QCw==" length="7430102"/>
     </item>
   </channel>
 </rss>
