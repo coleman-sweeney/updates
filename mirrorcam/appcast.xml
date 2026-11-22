@@ -3,16 +3,19 @@
   <channel>
     <title>MirrorCam</title>
     <item>
-      <title>MirrorCam 1.4.5</title>
-      <pubDate>Sat, 21 Nov 2026 00:32:12 +0000</pubDate>
-      <sparkle:version>11</sparkle:version>
-      <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
+      <title>MirrorCam 1.4.6</title>
+      <pubDate>Sun, 22 Nov 2026 21:54:05 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.4.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Edges: in Settings or the View menu, pick Hard (as before), Soft, Softer or Softest. The soft ones fade the mirror into whatever's behind it, with small corner marks that show while the toolbar does
-- The toolbar sits on Apple's Liquid Glass (macOS 26 and later)
-- MirrorCam now opens fresh every time: no zoom, and the light, Enhance and Sharpen off. To keep things as you left them, turn on Settings › Remember my settings
-- Settings and About use the Mac's own colors, matching your other apps in light and dark mode]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/mirrorcam/MirrorCam-1.4.5.dmg" type="application/octet-stream" sparkle:edSignature="aCpmy92+7B8+imbCltw2qyfR4qPhCwb6+4zBwICdotEBNMTaL5MfHzAgPE3I1cFk9u8bpH9jjCfzgqruimuTBw==" length="4043320"/>
+      <description sparkle:format="markdown"><![CDATA[- Soft light now shows the whole picture, as with the light off, only a little smaller. Before, it was cropped to a wide strip
+- A new icon, matching ConvertExt's: Apple's own blue, with plain white artwork
+- Windows now have the Mac's current look on macOS 26 and later (the taller title bar and bigger window buttons, as Finder)
+- Remember my settings: turning it on now keeps exactly what you have at that moment. Before, anything you hadn't changed since opening MirrorCam could come back from an earlier time
+- Settings has the Mac's standard spacing and one close button, like every other window
+- The menus have the Mac's standard items: Services, Zoom and Bring All to Front
+- Behind-the-scenes tidy-up]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/mirrorcam/MirrorCam-1.4.6.dmg" type="application/octet-stream" sparkle:edSignature="+HDDtQ0Mw48YHosIIJI5yaSyjPKo/IqclrBk/Se89K3QTJa96HNP57T06qJcpA8BpTM2pxVuWYw7Emq0VX1qBg==" length="3109835"/>
     </item>
   </channel>
 </rss>
