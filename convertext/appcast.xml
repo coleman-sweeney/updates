@@ -3,13 +3,13 @@
   <channel>
     <title>ConvertExt</title>
     <item>
-      <title>ConvertExt 0.1.14</title>
-      <pubDate>Thu, 19 Nov 2026 03:16:16 +0000</pubDate>
-      <sparkle:version>15</sparkle:version>
-      <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+      <title>ConvertExt 0.1.15</title>
+      <pubDate>Wed, 25 Nov 2026 20:18:44 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
 
-      <enclosure url="https://coleman-sweeney.github.io/updates/convertext/ConvertExt-0.1.14.dmg" type="application/octet-stream" sparkle:edSignature="mqCmdPW8KyWc5ZCfEg5RKfeOlfPNSm46jpxWOwOuhi51/dHkf9IknfYHSay3ayuqZGnZCAgPt58wX7bGImuuBg==" length="31907982"/>
+      <enclosure url="https://coleman-sweeney.github.io/updates/convertext/ConvertExt-0.1.15.dmg" type="application/octet-stream" sparkle:edSignature="8Mb/dBeH+iGwlwNnnugYOQg4UvLZDaiTP9b1nYFQiGGrqhE2d163Sbghrb7YV0JZN1uPg7rmRHCVZGrF1DMlAg==" length="32934769"/>
     </item>
   </channel>
 </rss>
