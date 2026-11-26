@@ -3,13 +3,16 @@
   <channel>
     <title>MirrorCam</title>
     <item>
-      <title>MirrorCam 1.4.7</title>
-      <pubDate>Mon, 23 Nov 2026 00:32:45 +0000</pubDate>
-      <sparkle:version>13</sparkle:version>
-      <sparkle:shortVersionString>1.4.7</sparkle:shortVersionString>
+      <title>MirrorCam 1.4.8</title>
+      <pubDate>Thu, 26 Nov 2026 00:18:10 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.4.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- Settings: the boxes and the lines between rows are spaced as the Mac's own System Settings]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/mirrorcam/MirrorCam-1.4.7.dmg" type="application/octet-stream" sparkle:edSignature="LB57oLmtzzVYXZl12Wiuupf7Tj11s53uM9vNkC5wxe6i8KcvOdnSQ01eKfRQjERjo7q/+Y/ezQcrsZpzJ1SYBQ==" length="3109668"/>
+      <description sparkle:format="markdown"><![CDATA[- Full screen: the gray bar no longer drops over the top of the mirror. Pointing at the top of the screen shows the menu bar only; Esc or ⌃⌘F leaves full screen
+- Double-click the top of the window (or Window › Zoom) and it fills the screen; again, and it goes back to the size it was
+- Enhance no longer changes the picture's color, which could turn a room yellow in daylight. It brightens a dim or backlit face, as before
+- Settings matches ConvertExt's point for point, with its rows in two boxes]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/mirrorcam/MirrorCam-1.4.8.dmg" type="application/octet-stream" sparkle:edSignature="F1/Bf6q46v5ZOzAPUseKhkiSyG5AlqiJAZmYiMyw8ii8VHEYp8KUTD5pIvqyGfyAEPNI6S1C4CZmUfcV9UgYCg==" length="3108715"/>
     </item>
   </channel>
 </rss>
