@@ -3,15 +3,19 @@
   <channel>
     <title>ConformTxt</title>
     <item>
-      <title>ConformTxt 0.6.34</title>
-      <pubDate>Sat, 21 Nov 2026 00:41:13 +0000</pubDate>
-      <sparkle:version>42</sparkle:version>
-      <sparkle:shortVersionString>0.6.34</sparkle:shortVersionString>
+      <title>ConformTxt 0.6.35</title>
+      <pubDate>Thu, 26 Nov 2026 00:01:09 +0000</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>0.6.35</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"><![CDATA[- New in Settings: Show in menu bar. Turn it off to hide the icon; ConformTxt keeps working, and opening it again from Finder or Spotlight brings up its panel.
-- A table copied from Excel always comes in as a normal paste, in every app, with its colors and borders (in Mimestream it could lose its cell colors).
-- The panel has the same look as System Settings and ConvertExt: white behind light gray boxes.]]></description>
-      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTxt-0.6.34.dmg" type="application/octet-stream" sparkle:edSignature="4IIjSmM112x5ILkxHDGGUBEowDsaWy0URZr6BsKjwiIiZT5MaSPgjOwr/nGXQ9Ws+mSo6Dbp4kUlUs1G+ZgUAw==" length="4697018"/>
+      <description sparkle:format="markdown"><![CDATA[- A new drop-down under the menu bar icon, built like the Mac's own (Wi-Fi's, Battery's): ConformTxt's name with the On switch, History, and "ConformTxt Settings…".
+- Settings have a window of their own. Open it from the drop-down, from Settings… in the right-click menu, or by opening ConformTxt again while its menu bar icon is hidden.
+- History shows the newest three pastes; click "History" for the whole list and Clear, and click a paste to read what ConformTxt did with it.
+- Code pastes in the destination's font, like everything else, with its lines and indents kept. (A draft an AI chat wrote in a code block used to stay in a code font.)
+- A table copied from an ONLYOFFICE sheet keeps its colors, borders, alignment and column widths, and takes the font of the email it lands in (Mimestream, Mail, Gmail in Chrome). Empty cells keep their grid lines and numbers sit on the right, as in the sheet. (It used to be restyled, and lost its cell colors.)
+- Updates now install by themselves. When one has downloaded, ConformTxt puts it in and reopens in a moment when you aren't using it: no window, nothing to click. (From the update after this one.)
+- ConformTxt now has the current Mac look on macOS 26 and later, and a new icon in Apple's own blue with a plain white ⌘V, the same as ConvertExt's.]]></description>
+      <enclosure url="https://coleman-sweeney.github.io/updates/conformtxt/ConformTxt-0.6.35.dmg" type="application/octet-stream" sparkle:edSignature="xUZM6uR8dlHOMhBW9qINS4AxFdP5uB60xqlnTW1mWK1FtMVxlnjaDW4eAVdO95p0m0QG+6/pxTuB15Xufw3PBA==" length="3963886"/>
     </item>
   </channel>
 </rss>
