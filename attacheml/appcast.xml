@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>AttachEml</title>
+    <item>
+      <title>AttachEml 0.1.0</title>
+      <pubDate>Thu, 26 Nov 2026 05:42:19 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+
+      <enclosure url="https://coleman-sweeney.github.io/updates/attacheml/AttachEml-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="tqrLGxwPMJJw/2A/7Mqoq7C5ywKTCwuS8F1/YstxvuJSH4n+OX+yl8jb1zV6C/Ojp65neA93B9Xgua5A5HJOBA==" length="4876537"/>
+    </item>
+  </channel>
+</rss>

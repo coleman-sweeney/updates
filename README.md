@@ -9,3 +9,4 @@ Update feed and downloads for Mac apps.
 | ConformTXT | [ConformTXT.dmg](https://coleman-sweeney.github.io/updates/conformtxt/ConformTXT.dmg) | `conformtxt/appcast.xml` |
 | MirrorCam | [MirrorCam.dmg](https://coleman-sweeney.github.io/updates/mirrorcam/MirrorCam.dmg) | `mirrorcam/appcast.xml` |
 | ConvertExt | [ConvertExt.dmg](https://coleman-sweeney.github.io/updates/convertext/ConvertExt.dmg) | `convertext/appcast.xml` |
+| AttachEml | [AttachEml.dmg](https://coleman-sweeney.github.io/updates/attacheml/AttachEml.dmg) | `attacheml/appcast.xml` |
